@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/cgewecke/ubuntu-req-benchmark#readme",
   "devDependencies": {
-    "web3": "^1.2.2"
+    "scrypt-shim": "git+https://github.com/web3-js/scrypt-shim.git#be5e616323a8b5e568788bf94d03c1b8410eac54",
+    "web3": "^1.2.2",
+    "websocket": "github:web3-js/WebSocket-Node#905deb4812572b344f5801f8c9ce8bb02799d82e"
   }
 }
