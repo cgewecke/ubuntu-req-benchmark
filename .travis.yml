@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - "10"
+install:
+  - npm install
+script:
+  - echo "> cat package.json"
+  - cat package.json
+  - echo "> cat require_web3.js"
+  - cat require_web3.js
+  - echo "> time node require_web3.js"
+  - time node require_web3.js

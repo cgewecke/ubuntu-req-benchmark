@@ -1,0 +1,23 @@
+{
+  "name": "ubuntu-req-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgewecke/ubuntu-req-benchmark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgewecke/ubuntu-req-benchmark/issues"
+  },
+  "homepage": "https://github.com/cgewecke/ubuntu-req-benchmark#readme",
+  "devDependencies": {
+    "web3": "^1.2.2"
+  }
+}
